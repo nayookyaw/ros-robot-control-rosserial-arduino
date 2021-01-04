@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "/home/nay/nok_ws/devel/share/roseus/ros/hello_world_cpp/manifest.l"
+  "/home/nay/nok_ws/devel/share/roseus/ros/hello_world_cpp/msg/MyMsg.l"
+  "CMakeFiles/hello_world_cpp_generate_messages_eus"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/hello_world_cpp_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,8 @@
+prefix=/home/nay/nok_ws/install
+
+Name: hello_world_cpp
+Description: Description of hello_world_cpp
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

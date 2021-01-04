@@ -1,0 +1,8 @@
+prefix=/home/nay/nok_ws/install
+
+Name: nok_cmd_vel
+Description: Description of nok_cmd_vel
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lnok_cmd_vel
+Requires: roscpp std_msgs

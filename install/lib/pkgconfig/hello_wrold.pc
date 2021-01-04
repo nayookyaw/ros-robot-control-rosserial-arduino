@@ -1,0 +1,8 @@
+prefix=/home/nay/nok_ws/install
+
+Name: hello_wrold
+Description: Description of hello_wrold
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
